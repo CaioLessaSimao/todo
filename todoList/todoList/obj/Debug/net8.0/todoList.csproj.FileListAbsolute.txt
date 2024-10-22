@@ -32,3 +32,15 @@ C:\Users\20222bsi0083\Desktop\TodoRep\todo\todoList\todoList\obj\Debug\net8.0\re
 C:\Users\20222bsi0083\Desktop\TodoRep\todo\todoList\todoList\obj\Debug\net8.0\todoList.pdb
 C:\Users\20222bsi0083\Desktop\TodoRep\todo\todoList\todoList\obj\Debug\net8.0\todoList.genruntimeconfig.cache
 C:\Users\20222bsi0083\Desktop\TodoRep\todo\todoList\todoList\obj\Debug\net8.0\ref\todoList.dll
+C:\Users\20222bsi0083\Desktop\TodoRep\todo\todoList\todoList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\20222bsi0083\Desktop\TodoRep\todo\todoList\todoList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\20222bsi0083\Desktop\TodoRep\todo\todoList\todoList\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\20222bsi0083\Desktop\TodoRep\todo\todoList\todoList\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\20222bsi0083\Desktop\TodoRep\todo\todoList\todoList\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\20222bsi0083\Desktop\TodoRep\todo\todoList\todoList\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\20222bsi0083\Desktop\TodoRep\todo\todoList\todoList\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\20222bsi0083\Desktop\TodoRep\todo\todoList\todoList\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\20222bsi0083\Desktop\TodoRep\todo\todoList\todoList\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\20222bsi0083\Desktop\TodoRep\todo\todoList\todoList\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\20222bsi0083\Desktop\TodoRep\todo\todoList\todoList\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\20222bsi0083\Desktop\TodoRep\todo\todoList\todoList\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
